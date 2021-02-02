@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/thetechhub-admin/static/js/main.881e40fc.chunk.js",
+    "main.js.map": "/thetechhub-admin/static/js/main.881e40fc.chunk.js.map",
+    "runtime-main.js": "/thetechhub-admin/static/js/runtime-main.33ef93f8.js",
+    "runtime-main.js.map": "/thetechhub-admin/static/js/runtime-main.33ef93f8.js.map",
+    "static/js/2.f0df226f.chunk.js": "/thetechhub-admin/static/js/2.f0df226f.chunk.js",
+    "static/js/2.f0df226f.chunk.js.map": "/thetechhub-admin/static/js/2.f0df226f.chunk.js.map",
+    "index.html": "/thetechhub-admin/index.html",
+    "static/js/2.f0df226f.chunk.js.LICENSE.txt": "/thetechhub-admin/static/js/2.f0df226f.chunk.js.LICENSE.txt",
+    "static/media/login.3acf12f7.png": "/thetechhub-admin/static/media/login.3acf12f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33ef93f8.js",
+    "static/js/2.f0df226f.chunk.js",
+    "static/js/main.881e40fc.chunk.js"
+  ]
+}
