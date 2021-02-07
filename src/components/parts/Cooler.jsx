@@ -118,7 +118,9 @@ const Cooler = () => {
                       <Td>{value.model}</Td>
                       <Td>{value.fan_rpm}</Td>
                       <Td>{value.noise_level}</Td>
-                      <Td>{value.image}</Td>
+                      <Td>
+                        <img src={value.image} alt="" />
+                      </Td>
                       <Td>{value.price}</Td>
                       <Td>
                         <Button

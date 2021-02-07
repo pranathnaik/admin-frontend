@@ -113,7 +113,9 @@ const Accesories = () => {
                       <Td>{value.name}</Td>
                       <Td>{value.type}</Td>
                       <Td>{value.features}</Td>
-                      <Td>{value.image}</Td>
+                      <Td>
+                        <img src={value.image} alt="" />
+                      </Td>
                       <Td>{value.price}</Td>
                       <Td>
                         <Button
