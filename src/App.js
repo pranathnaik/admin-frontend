@@ -6,7 +6,7 @@ import Psu from "./components/parts/Psu";
 import Ram from "./components/parts/Ram";
 import Cabinet from "./components/parts/Cabinet";
 import Storage from "./components/parts/Storage";
-import Home from "./components/Home";
+import Orders from "./components/Orders";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Laptop from "./components/Laptop";
 import PreBuild from "./components/PreBuild";
@@ -65,7 +65,7 @@ function App() {
           {admin.admin ? (
             <>
               <Route exact path="/">
-                <Home />
+                <Orders />
               </Route>
               <Route exact path="/laptop">
                 <Laptop />
@@ -82,7 +82,7 @@ function App() {
               <Route path="/motherboard">
                 <Motherboard />
               </Route>
-              <Route path="/ram">
+              <Route path="/admin-frontend/ram">
                 <Ram />
               </Route>
               <Route path="/cabinet">

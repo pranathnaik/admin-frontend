@@ -44,7 +44,7 @@ const NavBar = () => {
           {admin.admin ? (
             <>
               <Button leftIcon={<FaHome />} variant="link" size="md">
-                <Link to="/">Home</Link>
+                <Link to="/">Orders</Link>
               </Button>
 
               <Button variant="link" size="md">
@@ -70,7 +70,7 @@ const NavBar = () => {
                     <MenuItem>Motherboard </MenuItem>
                   </Link>
 
-                  <Link to="/ram">
+                  <Link to="/admin-frontend/ram">
                     <MenuItem>Ram </MenuItem>
                   </Link>
 
