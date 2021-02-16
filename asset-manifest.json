@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/admin-frontend/static/js/main.e8f2fcff.chunk.js",
-    "main.js.map": "/admin-frontend/static/js/main.e8f2fcff.chunk.js.map",
+    "main.js": "/admin-frontend/static/js/main.74d52dad.chunk.js",
+    "main.js.map": "/admin-frontend/static/js/main.74d52dad.chunk.js.map",
     "runtime-main.js": "/admin-frontend/static/js/runtime-main.1cb58e0b.js",
     "runtime-main.js.map": "/admin-frontend/static/js/runtime-main.1cb58e0b.js.map",
-    "static/js/2.154252bf.chunk.js": "/admin-frontend/static/js/2.154252bf.chunk.js",
-    "static/js/2.154252bf.chunk.js.map": "/admin-frontend/static/js/2.154252bf.chunk.js.map",
+    "static/js/2.dec5c1b6.chunk.js": "/admin-frontend/static/js/2.dec5c1b6.chunk.js",
+    "static/js/2.dec5c1b6.chunk.js.map": "/admin-frontend/static/js/2.dec5c1b6.chunk.js.map",
     "index.html": "/admin-frontend/index.html",
-    "static/js/2.154252bf.chunk.js.LICENSE.txt": "/admin-frontend/static/js/2.154252bf.chunk.js.LICENSE.txt",
+    "static/js/2.dec5c1b6.chunk.js.LICENSE.txt": "/admin-frontend/static/js/2.dec5c1b6.chunk.js.LICENSE.txt",
     "static/media/login.3acf12f7.png": "/admin-frontend/static/media/login.3acf12f7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1cb58e0b.js",
-    "static/js/2.154252bf.chunk.js",
-    "static/js/main.e8f2fcff.chunk.js"
+    "static/js/2.dec5c1b6.chunk.js",
+    "static/js/main.74d52dad.chunk.js"
   ]
 }
